@@ -1,8 +1,8 @@
 ## repo_kelompok9
 
 ## Nama project dan deskripsi singkat
-Nama Project:
-Deskripsi:
+Nama Project: PT_INTI_APP
+Deskripsi: Kenapa kami membuat aplikasi ini dikarenakan memudahkan saat melakukan Log-in,Absen, dan ESS (Employe Self Service) supaya perusahaan tersebut tidak harus menggunakan website lagi
 
 ## Anggota Kelompok
 1. Danny Ahmad Gunawan (24552011168)
