@@ -40,7 +40,8 @@ Deskripsi: Kenapa kami membuat aplikasi ini untuk memudahkan perusahaan saat mel
 
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/helpdesk/login.png) | ![](screenshots/helpdesk/dashboard.png) |
+| ![](screenshots/helpdesk/login.png) | ![](<img width="392" height="853" alt="image" src="https://github.com/user-attachments/assets/a078b02c-b201-4ad5-ab2e-61893361e99b" />
+) |
 
 | Tiket | Riwayat |
 |-------|----------|
@@ -64,7 +65,8 @@ Deskripsi: Kenapa kami membuat aplikasi ini untuk memudahkan perusahaan saat mel
 
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/karyawan/login.png) | ![](screenshots/karyawan/dashboard.png) |
+| ![](screenshots/karyawan/login.png) | ![](<img width="421" height="846" alt="image" src="https://github.com/user-attachments/assets/9cc3bced-2818-4059-ac0e-1f78d6ee37c8" />
+) |
 
 | Pengajuan | Profile |
 |-----------|----------|
