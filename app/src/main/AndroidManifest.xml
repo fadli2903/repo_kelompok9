@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.PT_Inti_App">
+
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".dashboard.DashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".absensi.AbsensiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".surat.SuratListActivity"
+            android:exported="false" />
+        <activity
+            android:name=".helpdesk.HelpdeskCreateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".helpdesk.HelpdeskListActivity"
+            android:exported="false" />
+        <activity android:name=".surat.SuratApprovalActivity" android:exported="false" />
+        <activity android:name=".surat.PengajuanCutiActivity" android:exported="false" />
+        <activity android:name=".surat.PengajuanLemburActivity" android:exported="false" />
+        <activity android:name=".surat.DataCutiSdmActivity" android:exported="false" />
+    </application>
+
+</manifest>
