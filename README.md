@@ -1,4 +1,4 @@
-## repo_kelompok9
+## Repo kelompok 9
 
 ## Nama project dan deskripsi singkat
 Nama Project: PT_INTI_APP
