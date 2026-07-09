@@ -65,12 +65,16 @@ Deskripsi: Kenapa kami membuat aplikasi ini untuk memudahkan perusahaan saat mel
 
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/karyawan/login.png) | ![](<img width="421" height="846" alt="image" src="https://github.com/user-attachments/assets/9cc3bced-2818-4059-ac0e-1f78d6ee37c8" />
+| ![](<img width="401" height="841" alt="image" src="https://github.com/user-attachments/assets/f4fc62a7-bfa4-4c51-a3be-aa4c0f505f5b" />
+) | ![](<img width="421" height="846" alt="image" src="https://github.com/user-attachments/assets/9cc3bced-2818-4059-ac0e-1f78d6ee37c8" />
 ) |
 
-| Pengajuan | Profile |
-|-----------|----------|
-| ![](screenshots/karyawan/pengajuan.png) | ![](screenshots/karyawan/profile.png) |
+| absensi | surat pengajuan | laporan kendala |
+|-----------|----------|----------|
+| ![](<img width="393" height="847" alt="image" src="https://github.com/user-attachments/assets/f82c2baf-995b-4134-a56d-1ab5acc0c623" />
+) | ![](<img width="388" height="853" alt="image" src="https://github.com/user-attachments/assets/16025cf7-1a07-4c21-8b80-29687f5a9214" />
+) | ![](<img width="396" height="851" alt="image" src="https://github.com/user-attachments/assets/2d7fc5a5-d7b5-4442-a94b-04a7dee02485" />
+) |
 
 ## Video Penjelasan:
 
