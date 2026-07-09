@@ -2,9 +2,9 @@
 
 Anggota Kelompok 9:
 Danny Ahmad Gunawan 24552011168 
-Effendy Gabriel Putra 24552011169
+Effendy Gabriel Putra 24552011169 
 Fadli Septian Sutaryana 24552011314 
-Falix Iqbal Wahyudi 24552011175
+Falix Iqbal Wahyudi 24552011175 
 
 Video Penjelasan:
 
