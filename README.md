@@ -3,7 +3,7 @@
 ## Nama project dan deskripsi singkat
 Nama Project: PT_INTI_APP
 
-Deskripsi: Kenapa kami membuat aplikasi ini dikarenakan memudahkan saat melakukan Log-in,Absen, dan ESS (Employe Self Service) supaya perusahaan tersebut tidak harus menggunakan website lagi
+Deskripsi: Kenapa kami membuat aplikasi ini untuk memudahkan perusahaan saat melakukan Log-in,Absen, dan ESS (Employe Self Service) agar mereka bisa menggunakan aplikasi di setiap saat tampak dan tidak harus hawatir dari serangan Syber diluar sana
 
 ## Anggota Kelompok
 1. Danny Ahmad Gunawan (24552011168)
