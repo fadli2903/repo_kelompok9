@@ -59,13 +59,7 @@ Aplikasi ini dirancang agar dapat digunakan kapan saja dan di mana saja, dengan 
 
 # 🎥 Video Penjelasan
 
-> Tambahkan link video presentasi di sini.
-
-Contoh:
-
-- https://youtu.be/xxxxxxxx
-
----
+https://youtu.be/Ond7ScZV-bQ?si=ggUh5QSJC3ZITwqk
 
 # 🚀 Cara Menjalankan Project
 
